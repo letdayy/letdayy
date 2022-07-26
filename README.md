@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Me siga nas redes abaixo!
+  ### Minhas redes sociais!
  
 <div> 
   <a href="https://www.twitch.tv/letdayy" target="_blank"><img src="https://camo.githubusercontent.com/ec779aec0f1b6eaa5d10682a8fb54c96525e9074461254165f4e7d4295f7d4d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5477697463682d3931343646463f7374796c653d666f722d7468652d6261646765266c6f676f3d747769746368266c6f676f436f6c6f723d7768697465" target="_blank"></a>
